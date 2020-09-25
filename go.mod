@@ -13,7 +13,6 @@ require (
 	github.com/google/flatbuffers v1.11.0 // indirect
 	github.com/jdkato/prose/v3 v3.0.0-20200821204226-c2b2f78b870e
 	github.com/ledongthuc/pdf v0.0.0-20200323191019-23c5852adbd2
-	github.com/neurosnap/sentences v1.0.6 // indirect
 	github.com/sirupsen/logrus v1.4.1
 	github.com/stretchr/testify v1.6.1
 	gopkg.in/alecthomas/kingpin.v2 v2.2.6
